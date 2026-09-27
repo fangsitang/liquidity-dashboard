@@ -1,0 +1,5 @@
+streamlit
+fredapi
+pandas
+matplotlib
+streamlit-autorefresh
